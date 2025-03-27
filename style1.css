@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+}
+.container {
+    display: flex;
+    background-color: aqua;
+    height: 400px;
+}
+
+.item {
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    width: 200px;
+    background-color: white;
+    font-size: 30px;
+}
+
+ul{
+    background-color: blanchedalmond;
+    padding: 15px;
+    list-style-type: none;
+}
+li{
+    background-color: yellow;
+    border:solid blue 1px;
+    padding:10px;
+    max-width:  80px;
+    display:inline;
+}
+a{
+    padding:10px;
+    color:red;
+    text-decoration:none;
+}
+a:hover{
+    color:black;
+    background-color:green;
+}
+body{
+    margin: 0;
+}

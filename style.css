@@ -1,0 +1,23 @@
+/*class*/
+.xyz{
+    color:yellow
+}
+
+
+/*id*/
+#abc{
+    color:green;
+    background-color: red;
+}
+input{
+  margin:10px;
+}
+h1{ margin:10px;
+  color:red;
+  text-align:center
+}
+form{
+  color:red;
+  margin: 10px;
+  padding: 20px;
+}

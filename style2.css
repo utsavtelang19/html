@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.container {
+    display: flex;
+    background-color: aqua;
+    height: 400px;
+    flex-wrap: wrap;
+}
+
+.item {
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    /*width: 175px;*/
+}
+
+
+body{
+    margin: 0;
+}
+
